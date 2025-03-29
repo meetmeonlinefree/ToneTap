@@ -1,0 +1,21 @@
+{
+  "privacy_policy": {
+    "title": "Privacy Policy ToneTap",
+    "application_name": "ToneTap",
+    "data_collection": {
+      "en": "ToneTap does not collect, store, or transmit any personal data of users."
+    },
+    "types_of_data": {
+      "en": "We do not collect any personal information, including names, email addresses, phone numbers, or any other identifying information."
+    },
+    "permissions": {
+      "en": "The application does not request access to user data, files, or devices."
+    },
+    "policy_changes": {
+      "en": "We reserve the right to make changes to this policy. Updates will be posted in this section."
+    },
+    "contact": {
+      "email": "meetmeonlinefree@gmail.com"
+    }
+  }
+}
